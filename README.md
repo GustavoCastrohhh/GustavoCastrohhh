@@ -6,7 +6,8 @@
 
 </div>
 
-Desenvolvedor Full Stack com quase 2 anos de experiência, focado em TypeScript (Node.js, Fastify, React) e PostgreSQL. Construo sistemas de ponta a ponta, da modelagem do banco ao deploy em produção: meu projeto mais recente é uma plataforma de tracking server-side e dashboard analítico que coleta eventos do site e do WhatsApp, cruza com o CRM (HubSpot) e envia conversões para Meta e Google Ads, com filas, retentativas e deduplicação para não perder nem duplicar evento.
+Desenvolvedor Full Stack com mais de 5 anos de experiência, atualmente focado em TypeScript (Node.js, Fastify, React) e PostgreSQL. 
+Construo sistemas de ponta a ponta, da modelagem do banco ao deploy em produção: meu projeto mais recente é uma plataforma de tracking server-side e dashboard analítico que coleta eventos do site e do WhatsApp, cruza com o CRM (HubSpot) e envia conversões para Meta e Google Ads, com filas, retentativas e deduplicação para não perder nem duplicar evento.
 
 Trabalho com atenção a dados sensíveis (LGPD, consentimento, criptografia e hash de dados pessoais) e a testes automatizados em todas as camadas, com Vitest e Playwright. Cuido também da operação do que construo: deploy automatizado em VPS com Docker, logs estruturados, tratamento de falhas com fila de reprocesso e documentação de arquitetura e de incidentes.
 
@@ -30,6 +31,7 @@ Trabalho com atenção a dados sensíveis (LGPD, consentimento, criptografia e h
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
