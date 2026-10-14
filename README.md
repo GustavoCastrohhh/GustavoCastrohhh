@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | Automações | MCP & Integrações de IA
 
-![Disponível para Projetos](https://img.shields.io/badge/DISPONÍVEL_PARA_PROJETOS-4c1?style=for-the-badge)
+[![Disponível para Projetos](https://img.shields.io/badge/DISPONÍVEL_PARA_PROJETOS-4c1?style=for-the-badge)](https://wa.me/54996673370)
 
 </div>
 
@@ -54,3 +54,4 @@ Trabalho com atenção a dados sensíveis (LGPD, consentimento, criptografia e h
 ### Automação & Integrações
 ![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP_SERVER-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
