@@ -1,6 +1,6 @@
 <div align="center">
 
-### Desenvolvedor Full Stack | Especialista em Automações
+### Desenvolvedor Full Stack | Automações | MCP & Integrações de IA
 
 ![Disponível para Projetos](https://img.shields.io/badge/DISPONÍVEL_PARA_PROJETOS-4c1?style=for-the-badge)
 
